@@ -1,0 +1,9 @@
+.yorum {
+  border: 1px dashed #80e7ab;
+  padding: 10px;
+}
+
+.yorumlar {
+  border: 1px solid rgb(233, 230, 230);
+  padding: 10px;
+}
